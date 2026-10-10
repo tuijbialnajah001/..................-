@@ -1,0 +1,6 @@
+{
+  "name": "N/Sfw ~ 𝗢𝗖𝗧Λ𝗚𝗥Λ𝗠",
+  "description": "An open-source media discovery platform integrating Gelbooru API with a dedicated NSFW filter and batch downloading capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
